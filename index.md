@@ -1,0 +1,15 @@
+# Markdown Communication
+
+## [0] - What is markdown?
+Markdown is a lightweight markup language used to quickly format information in a prettified format: It uses a series of special characters and HTML-like tags to accomplish this goal.
+
+## [1] - Headers
+Headers are typically used to define the start of a new context of information. For example, headers are used for titles, category names, and important lists -- to name a few. Headers are defined using `#` hashtags, which can be used to change the size of the header font: decreasing the size as more are added -- up to 6 total (`######`):
+* # Heading 1
+* ## Heading 2
+* ### Heading 3
+* #### Heading 4
+* ##### Heading 5
+* ###### Heading 6
+
+#### Note: **Bold print** is just smaller than Heading 3 (`###`)
